@@ -1,6 +1,6 @@
 # Powershell_langage
 
-## 8 commandes unix et les cmdlets PowerShell équivalent :
+## 8 commandes unix et les cmdlets PowerShell équivalents :
 
 | Commandes unix   | cmdlets PowerShell  |
 | :--------------- |:-------------------:|
@@ -9,6 +9,6 @@
 | cd               |  Set-Location       |
 | mkdir            |    New-Item         |
 | man              |   Get-Help          |
-| Aligné à gauche  | centré              |
-| man              |   Get-Help          |
-| Aligné à gauche  | centré              |
+| history          |  Get-History        |
+| alias            |   Get-Alias         |
+| cat              |    Get-Content      |
