@@ -1,4 +1,4 @@
-# Powershell_langage
+# Powershell langage
 
 ## 8 commandes unix et les cmdlets PowerShell équivalents :
 
@@ -12,3 +12,7 @@
 | history          |  Get-History        |
 | alias            |   Get-Alias         |
 | cat              |    Get-Content      |
+
+
+## Pour obtenir la liste des cmdlets PowerShell :
+Get-Command
